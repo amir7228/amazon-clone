@@ -1,0 +1,25 @@
+.checkoutproduct {
+  display: flex;
+}
+.checkoutproduct > img {
+  object-fit: contain;
+  height: 180px;
+  width: 180px;
+}
+.checkoutproduct__info {
+  padding-left: 20px;
+}
+.checkoutproduct__info > button {
+  background-color: orange;
+  border: 1px solid;
+  margin-top: 10px;
+  color: black;
+  border: orange;
+}
+.checkoutproduct__rating {
+  display: flex;
+}
+.checkoutproduct__text {
+  font-size: 17px;
+  font-weight: 800;
+}
