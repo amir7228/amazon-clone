@@ -1,5 +1,7 @@
 .checkoutproduct {
   display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .checkoutproduct > img {
   object-fit: contain;
